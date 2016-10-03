@@ -1,0 +1,6 @@
+
+name: dduffey-smartcon
+version: "1.0"
+summary: DDuffey's Smart Air Conditioning
+description: This controls the your homes AC system to keep all rooms comfortable.
+confinement: strict
