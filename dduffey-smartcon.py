@@ -24,7 +24,7 @@ import statistics
 #      'tokens() method.')
 #print('authorization_code',authorization_code)
 
-authorization_code='Yxb0arxia7jsLgWrchkeiRFKPjLzWNNa'
+authorization_code=
 
 #url = 'https://api.ecobee.com/token'
 #params = {'grant_type': 'ecobeePin', 'code': authorization_code,
@@ -40,8 +40,8 @@ authorization_code='Yxb0arxia7jsLgWrchkeiRFKPjLzWNNa'
 #print('access_token',access_token)
 #print('refresh_token',refresh_token)
 
-access_token='AVQ7Uf1fnDybPxKlT9ZSGZoOQkuLykE9'
-refresh_token='df6MQOCfQzWSs2KDcoMLoMWxDqDtiBpU'
+access_token=
+refresh_token=
 
 url = 'https://api.ecobee.com/1/thermostat'
 header = {'Content-Type': 'application/json;charset=UTF-8',
